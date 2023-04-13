@@ -1,5 +1,5 @@
-![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552)
-
+<!-- ![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552) -->
+<img src="https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552"  width="600" height="300">
 
 <!--
 **SpaghettiCodes/SpaghettiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
