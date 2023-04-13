@@ -1,5 +1,7 @@
 haha amogus
 
+![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552)
+
 
 <!--
 **SpaghettiCodes/SpaghettiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
