@@ -1,6 +1,7 @@
 <!-- ![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552) -->
 
-Its joever
+42 Cadet and Monash University Computer Science Student - Chua
+Contact me in discord - savemeplz or gmail - chuashixiang@gmail.com (pray that i read)
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552"  width="600" height="300">
