@@ -1,6 +1,6 @@
 <!-- ![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552) -->
 
-42 Cadet and Monash University Computer Science Student - Chua
+42 Specialization Cadet and Monash University Computer Science Student - Chua
 </br>
 
 Contact me in 
