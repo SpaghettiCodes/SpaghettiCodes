@@ -8,6 +8,7 @@ Contact me in
   - gmail - chuashixiang24@gmail.com
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/6d829408-9a94-4097-adef-a0f56d8ae518"  width="600" height="300">
   <img src="https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552"  width="600" height="300">
 </p>
 <!--
