@@ -1,11 +1,11 @@
 <!-- ![Amgous](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552) -->
 
-42 Specialization Cadet and Monash University Computer Science Student - Chua
+42 Specialization Cadet and Year 3 Semester 1 Monash University Computer Science Student - Chua
 </br>
 
 Contact me in 
   - discord - savemeplz
-  - gmail - chuashixiang@gmail.com (pray that i read)
+  - gmail - chuashixiang24@gmail.com
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552"  width="600" height="300">
